@@ -1,2 +1,2 @@
 # Clacker
-First program made in Java
+This is a program written for my programming class which is done in Java.
