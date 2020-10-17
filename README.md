@@ -13,4 +13,6 @@ This is a dice rolling simulation written for my computer science class which is
 For every simulation, the program will print out the score and the number of rolls left in this format. <br>
 {name}'s score: {score} <br>
 "Rolls left: " + {rolls_left}
+The score is based on how many simulations the program has currently execeuted. The lower the score, the better. 
 
+Happy Playing!
