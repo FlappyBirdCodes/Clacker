@@ -12,6 +12,6 @@ This is a dice rolling simulation written for my computer science class which is
 # Scoring system
 For every simulation, the program will print out the score and the number of rolls left in this format.
 
-Score: <score> <br>
+Score: <score>
 "Rolls left: " + <rolls_left>
 
