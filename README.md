@@ -10,7 +10,8 @@ This is a dice rolling simulation written for my computer science class which is
 -If all simulation attempts have been used up, the game will ask the user to input how many more attempts they would like to try. The game does not terminate until the entire board has been filled up. 
 
 # Scoring system
-For every simulation, the program will print out the score and the number of rolls left in this format. <br>
+For every simulation, the program will print out the score and the number of rolls left in this format.
+
 <name>'s score: <score> <br>
 "Rolls left: " + <rolls_left>
 
