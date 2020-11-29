@@ -1,5 +1,5 @@
 # Clacker
-This is a dice rolling simulation written for my computer science class which is done in Java. The program utilizes fundamental programming concepts such as variables, if statements, loops, input, ArrayLists and functions. 
+This is a dice rolling simulation written for my computer science class which is done in java. The program utilizes fundamental programming concepts such as variables, if statements, loops, input, ArrayLists and functions. 
 
 # How to play the game
 -The initial board will be an ArrayList of integers between 1 and 12. <br>
